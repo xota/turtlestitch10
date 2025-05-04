@@ -45,7 +45,14 @@ body {font-family: "Lato", sans-serif}
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
-
+<!-- Modal for enlarging images -->
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <span class="w3-button w3-hover-red w3-xlarge w3-display-topright" title="Close Modal">&times;</span>
+  <div class="w3-modal-content w3-animate-zoom w3-center" style="max-width:90vw; max-height:90vh; overflow:auto;">
+    <img id="img01" style="width:100%; height:auto; max-height:80vh; object-fit:contain;">
+    <p id="caption" class="w3-opacity w3-large w3-padding"></p>
+  </div>
+</div>
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
     <img src="images/cards.jpg" style="width:100%">
@@ -208,26 +215,30 @@ body {font-family: "Lato", sans-serif}
     </div>
   </div>
 
+          
   <!-- Practical  -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="practical">
     <h2 class="w3-wide">Practical information</h2>
     <div class="w3-row w3-padding-32">
-	  <div class="w3-card-4" style="width:50%;">
-		<header class="w3-container w3-blue">
-		  <h1>Getting there</h1>
-		</header>    <img src="images/mapGettingToTilburg.png" class="w3-round" alt="map Netherlands">
-		<div class="w3-container">
-		  <p>Tilburg has very good rail connections, plan your journey on <a href="https://www.ns.nl/en" title="NS Rail Planner" target="blank">NS.nl</a>. If you have difficulty finding a good place to stay in Tilburg, surrounding cities like Breda and Den Bosch are nice and convenient alternatives.</p>
-	  </div>
-	  <div class="w3-card-4" style="width:50%;">
-		<header class="w3-container w3-blue">
-		  <h1>Getting around</h1>
-		</header>
-		<img src="images/map.png" class="w3-round" alt="map Tilburg">
-		<div class="w3-container">
-		  <p>Almost all activities are in the LocHal building which is just a few minutes from the northern exit of Tilburg Central Railway station. It may be good to know that during our conference there's a mega event a few blocks west: <a href="https://www.kermistilburg.nl/plattegrond-2025/" title="Tilburg Kermis" target="blank">Tilburg Kermis</a>. This event attracts more than a million visitors ...</p>
-		</div>
-	  </div>	
+      <div class="w3-half w3-container">
+        <p>Getting there</p>
+        <p class="w3-justify">Tilburg has very good rail connections, plan your journey on <a href="https://www.ns.nl/en" title="NS Rail Planner" target="blank">NS.nl</a>. If you have difficulty finding a good place to stay in Tilburg, surrounding cities like Breda and Den Bosch are nice and convenient alternatives.</p>
+        <img src="images/mapGettingToTilburg.png"
+     alt="Map: Getting to Tilburg"
+     class="w3-image w3-greyscale-min"
+     style="width:100%;cursor:pointer"
+     onclick="onClick(this)">
+      </div>
+      <div class="w3-half w3-container">
+        <p>Getting around</p>
+        <p class="w3-justify">Almost all activities are in the LocHal building which is just a few minutes from the northern exit of Tilburg Central Railway station. It may be good to know that during our conference there's a mega event a few blocks west: <a href="https://www.kermistilburg.nl/plattegrond-2025/" title="Tilburg Kermis" target="blank">Tilburg Kermis</a>. This event attracts more than a million visitors ...</p>
+        <!-- Image of location/map -->
+        <img src="images/map.png"
+     alt="Map: Tilburg Kermis area"
+     class="w3-image w3-greyscale-min"
+     style="width:100%;cursor:pointer"
+     onclick="onClick(this)">
+      </div>
     </div>
   </div>
   
@@ -300,6 +311,12 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+  function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("caption").innerHTML = element.alt;
+  document.getElementById("modal01").style.display = "block";
+}
+
 </script>
 
 </body>
