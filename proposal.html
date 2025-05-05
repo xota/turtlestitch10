@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Turtlestitch 10</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="formspree.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+</head>
+<body>
+<!-- Page content -->
+
+<!-- Proposal form -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:1200px" id="proposals">
+  </div>
+  <div class="w3-container">
+  <form
+  action="https://formspree.io/f/meogaybd"
+  class="fs-form fs-layout__2-column"
+  target="_top"
+  method="POST"
+>
+  <fieldset>
+    <div class="fs-field">
+      <label class="fs-label" for="name">Full Name</label>
+      <input class="fs-input" id="name" name="name" required />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="email">Email</label>
+      <input class="fs-input" id="email" name="email" required />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="turtlestitchID">TurtleStich username</label>
+      <input class="fs-input" id="turtlestitchID" name="turtlestitchID" />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="number">Contact Number</label>
+      <input
+        class="fs-input"
+        id="number"
+        name="number"
+        placeholder="+31 6 412 909 84"
+      />
+    </div>
+     </fieldset>
+  <fieldset>
+    <div class="fs-field">
+      <label class="fs-label" for="affiliation">Affiliation</label>
+      <input class="fs-input" id="affiliation" name="affiliation" />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="city">City</label>
+      <input class="fs-input" id="city" name="city" />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="country">Country</label>
+      <input class="fs-input" id="country" name="country" />
+    </div>
+  </fieldset>
+  <fieldset>
+    <div class="fs-field">
+      <label class="fs-label" for="proposalType">Type of proposal</label>
+      <select class="fs-select" id="proposalType" name="proposalType">
+        <option value="short">Short talk (5-15 minutes)</option>
+        <option value="medium">Medium talk (15-30 minutes)</option>
+        <option value="long">Long talk (30-60 minutes)</option>
+        <option value="workshop">Workshop (90 minutes)</option>
+        <option value="extended">Extended workshop (upto 180 minutes)</option>
+      </select>
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="title">Title</label>
+      <input class="fs-input" id="title" name="title" required/>
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="description">Description</label>
+      <input class="fs-input" id="description" name="description" placeholder="A short description" required/>
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="audience">Audience</label>
+      <input class="fs-input" id="audience" name="audience" placeholder="Tell us if you have expectations about the audience" />
+    </div>
+    <div class="fs-field">
+      <label class="fs-label" for="reqirements">Requirements</label>
+      <input class="fs-input" id="reqirements" name="reqirements" placeholder="Tell us if you need equipment / materials supplied by organizers or participants" />
+    </div>
+  </fieldset>
+  <div class="fs-button-group">
+    <button class="fs-button" type="submit">Submit</button>
+  </div>
+</form>
+
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+        <p>Contact: Stichting Scratchweb, Prinseneiland 4, NL-1013LR Amsterdam (Joek van Montfort +31641290984)</p>
+  <a href="https://mastodon.sdf.org/@turtlestitch@fosstodon.org" title="TurtleStitch Mastodon Handle" target="blank"><i class="fa fa-mastodon w3-hover-opacity"></i></a>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 4000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+  function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("caption").innerHTML = element.alt;
+  document.getElementById("modal01").style.display = "block";
+}
+
+</script>
+
+</body>
+</html>
