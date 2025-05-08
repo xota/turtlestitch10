@@ -15,7 +15,38 @@ body {font-family: "Lato", sans-serif}
 </head>
 <body>
 <!-- Page content -->
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
+    <a href="#speakers" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Participants</a>
+    <a href="#program" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Program</a>
+    <a href="#partners" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Partners</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="More">Practical<i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="#tilburg" class="w3-bar-item w3-button">Tilburg</a>
+        <a href="#" class="w3-bar-item w3-button">Registration</a>
+        <a href="#" class="w3-bar-item w3-button">Contact</a>
+      </div>
+    </div>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
 
+<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Home</a>
+  <a href="#speakers" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Participants</a>
+  <a href="#program" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Program</a>
+  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Partners</a>
+  <a href="#tilburg" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Practical</a>
+</div>
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:1200px" id="home">
+
+    <h2 class="w3-wide">TurtleStitch 10, Call for Contributions</h2>
+</div>
 <!-- Proposal form -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:1200px" id="proposals">
   </div>
@@ -28,19 +59,19 @@ body {font-family: "Lato", sans-serif}
 >
   <fieldset>
     <div class="fs-field">
-      <label class="fs-label" for="name">Full Name</label>
+      <label class="fs-label" for="name">Full Name<span class ="w3-text-red"> * </span></label>
       <input class="fs-input" id="name" name="name" required />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="email">Email</label>
+      <label class="fs-label" for="email">Email<span class ="w3-text-red"> * </span></label>
       <input class="fs-input" id="email" name="email" required />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="turtlestitchID">TurtleStich username</label>
+      <label class="fs-label" for="turtlestitchID">TurtleStitch username</label>
       <input class="fs-input" id="turtlestitchID" name="turtlestitchID" />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="number">Contact Number</label>
+      <label class="fs-label" for="number">Contact Number<span class ="w3-text-red"> * </span></label>
       <input
         class="fs-input"
         id="number"
@@ -59,14 +90,14 @@ body {font-family: "Lato", sans-serif}
       <input class="fs-input" id="city" name="city" />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="country">Country</label>
-      <input class="fs-input" id="country" name="country" />
+      <label class="fs-label" for="country">Country<span class ="w3-text-red"> * </span></label>
+      <input class="fs-input" id="country" name="country" required/>
     </div>
   </fieldset>
   <fieldset>
     <div class="fs-field">
-      <label class="fs-label" for="proposalType">Type of proposal</label>
-      <select class="fs-select" id="proposalType" name="proposalType">
+      <label class="fs-label" for="proposalType">Type of proposal<span class ="w3-text-red"> * </span></label>
+      <select class="fs-select" id="proposalType" name="proposalType" required>
         <option value="short">Short talk (5-15 minutes)</option>
         <option value="medium">Medium talk (15-30 minutes)</option>
         <option value="long">Long talk (30-60 minutes)</option>
@@ -75,20 +106,30 @@ body {font-family: "Lato", sans-serif}
       </select>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="title">Title</label>
-      <input class="fs-input" id="title" name="title" required/>
+      <label class="fs-label" for="title">Title<span class ="w3-text-red"> * </span></label>
+      <input class="fs-input" id="title" name="title" placeholder="Keep it short :-)" required/>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="description">Description</label>
-      <input class="fs-input" id="description" name="description" placeholder="A short description" required/>
+      <label class="fs-label" for="description">Teaser<span class ="w3-text-red"> * </span></label>
+      <input class="fs-input" id="description" name="description" placeholder="For use in program a one line teaser" required/>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="audience">Audience</label>
-      <input class="fs-input" id="audience" name="audience" placeholder="Tell us if you have expectations about the audience" />
+    <label class="fs-label" for="message">Abstract<span class ="w3-text-red"> * </span></label>
+    <textarea
+      class="fs-textarea"
+      id="abstract"
+      name="abstract"
+      placeholder=""
+    ></textarea>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="reqirements">Requirements</label>
-      <input class="fs-input" id="reqirements" name="reqirements" placeholder="Tell us if you need equipment / materials supplied by organizers or participants" />
+    <label class="fs-label" for="message">Extra information</label>
+    <textarea
+      class="fs-textarea"
+      id="requirements"
+      name="requirements"
+      placeholder="Anything you need from us? For workshops: what is your intended audeince? Do you need any special equipment? Do you have co-presenters? Do you need local volunteers?"
+    ></textarea>
     </div>
   </fieldset>
   <div class="fs-button-group">
