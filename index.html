@@ -42,7 +42,7 @@ body {font-family: "Lato", sans-serif}
   </div>
 </div>
 
-<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links)
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
   <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Home</a>
   <a href="#speakers" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Participants</a>
@@ -51,33 +51,36 @@ body {font-family: "Lato", sans-serif}
   <a href="#tilburg" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Practical</a>
 </div>
 
+
+ -->
+
 <!-- Page content -->
 <div class="w3-content" style="max-width:1200px;margin-top:46px">
 <!-- Modal for enlarging images -->
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
   <span class="w3-button w3-hover-red w3-xlarge w3-display-topright" title="Close Modal">&times;</span>
   <div class="w3-modal-content w3-animate-zoom w3-center" style="max-width:90vw; max-height:90vh; overflow:auto;">
-    <img id="img01" style="width:100%; height:auto; max-height:80vh; object-fit:contain;">
+    <img id="img01" alt="placeholder" style="width:100%; height:auto; max-height:80vh; object-fit:contain;">
     <p id="caption" class="w3-opacity w3-large w3-padding"></p>
   </div>
 </div>
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="images/cards.jpg" style="width:100%">
+    <img src="images/cards.jpg" style="width:100%" alt="TurtleStitch embroidered cards">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Turtlestitch 10</h3>
       <p><b>We celebrate 10 years of Turtlestitching around the globe.</b></p>   
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="images/kennismakerij.jpg" style="width:100%">
+    <img src="images/kennismakerij.jpg" style="width:100%" alt="Kennismakerij">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Tilburg</h3>
       <p><b>Event will be hosted at LocHal Tilburg and include visit to famous Textilemuseum</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="images/richardStitching.jpg" style="width:100%">
+    <img src="images/richardStitching.jpg" style="width:100%" alt="stitching with an embroidery machine">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Program</h3>
       <p><b>For two days there will be parallel tracks of talks and workshops.</b></p>    
@@ -91,17 +94,17 @@ body {font-family: "Lato", sans-serif}
     <p class="w3-justify">Happy birthday Turtlestitch! Ten years after Andrea Mayr first presented Turtlestitch with a masterclass in Amsterdam, there are many reasons to celebrate. Over the last ten years, Turtlestitch has won the hearts of children, artists and educators around the world. Part of the community has gathered at conferences for Turtlestich's roots, Scratch and Snap! Celebrating a decade of Turtlestitch will give many more people the opportunity to join and share. The venue will be <a href="https://www.archdaily.com/909540/lochal-library-mecanoo-plus-civic-architects-plus-braaksma-and-roos-architectenbureau">LocHal</a>, Tilburg, The Netherlands, an innovative public library, situated next to the well connected Tilburg Centraal station. The former locomotive sheds have been redeveloped into a great cultural hotspot, offering rooms for both talks and workshops. Turtlestitch creates a highly motivational opportunity for learners of all ages to explore computer programming while designing digital embroideries - a great opportunity for local coding clubs to embrace new ways to engage with digital tools that are creative, artistic and educational.</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-third w3-container">
-         <h3 class="w3-wide">Education</h3>
+         <h3 class="w3-wide w3-center">Education</h3>
           <p class="w3-justify">TurtleStitch as a grand grand child of Logo has strong connection with learning and education. In schools as well in informal educational settings TurtleStitch is used to engage learners of all ages. Embroidery is a very welcoming environment to introduce ideas on coding, math and making.</p>
         <img src="images/happystitching.jpg" class="w3-round w3-margin-bottom" alt="Young children enjoying TurtleStitch at Fosdem25" style="width:80%">
       </div>
       <div class="w3-third w3-container">
-         <h3 class="w3-wide">Art</h3>
+         <h3 class="w3-wide w3-center">Art</h3>
           <p class="w3-justify">TurtleStitch is a playful workspace to explore many patterns. Keep experimenting till your aesthetic idea is drawn, after which exporting to digital embroidery machine will make your work tactile. </p>
         <img src="images/draw-a-picasso-one-liner.png" class="w3-round w3-margin-bottom" alt="Stitching a Picasso one-liner" style="width:80%">
       </div>
       <div class="w3-third w3-container">
-         <h3 class="w3-wide">Culture</h3>
+         <h3 class="w3-wide w3-center">Culture</h3>
           <p class="w3-justify">Embroidery is used around the world to express ideas and tell stories. So are mathematical patterns. Combining the two in environment where you can play with code deepen insights in the cultures surrounding us.</p>
         <img src="images/gujaratEmbroidery.png" class="w3-round w3-margin-bottom" alt="Hand embroidered wall hanging, made by women of the Rabari people, an Indian community in the state of Gujarat" style="width:80%">
       </div>
@@ -139,7 +142,7 @@ body {font-family: "Lato", sans-serif}
       </div>
       <div class="w3-third w3-container">
         <h3 class="w3-wide w3-center">Visitor</h3>
-        <p class="w3-justify">If you or your children just want to attend part of the program, participate in a workshop we will ask you to register for free via the website of LocHal. You can <a href="mailto:turtlestitch10@scratchweb.nl?subject=&quot;Stuur me een programma  van TurtleStitch 10&quot;" title="aanmelden per mail voor programma">drop us a line</a> that you want to hear from us once the program gets shape.
+        <p class="w3-justify">If you or your children just want to attend part of the program, participate in a workshop we will ask you to register for free via the website of LocHal. You can <a href="mailto:turtlestitch10@scratchweb.nl?subject=TurtleStitch10Program" title="aanmelden per mail voor programma">drop us a line</a> that you want to hear from us once the program gets shape.
         </p>
         <p class="w3-center">
           <a href="mailto:turtlestitch10@scratchweb.nl?subject=&quot;Stuur me een programma  van TurtleStitch 10&quot;" class="w3-button w3-green" title="registration form TurtleStitch 10">Email us</a>
@@ -257,7 +260,7 @@ body {font-family: "Lato", sans-serif}
       </div>
       <div class="w3-third w3-container">
         <h3 class="w3-wide w3-center">Saturday July 19</h3>
-        <p class="w3-justify">On Saturday the day is packed with talks and workshops at LocHal. After dinner we'll have a teachmeet.</p>
+        <p class="w3-justify">On Saturday the day is packed with talks and workshops at LocHal. After dinner we'll have a TeachMeet.</p>
       </div>
       <div class="w3-third w3-container">
         <h3 class="w3-wide w3-center">Sunday July 20</h3>
