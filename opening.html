@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>T10 Opening</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="formspree.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+</head>
+<body>
+<!-- Page content -->
+<div class="w3-content" style="max-width:1200px;margin-top:46px">
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:1200px" id="home">
+		<h2 class="w3-wide">Friday July 18 Opening Night</h2>
+  </div>
+  
+  
+    <div class="w3-row w3-padding-32">
+      <div class="w3-half w3-container">
+        <div class="w3-panel w3-pale-yellow w3-border">
+          <h3 class="w3-wide w3-center">Workshop for volunteers 18:00 - 19:30</h3>
+          <p class="w3-justify w3-padding-16">From 18:00 onwards the workshop rooms are open for peopel volunteering in the weekend to give them a kickstart. How to design with TurtleStitch, how to get designs embroidered, …</p>
+        </div>
+      </div>
+      <div class="w3-half w3-container">
+        <div class="w3-panel w3-pale-yellow w3-border">
+          <h3 class="w3-wide w3-center">Opening 19:00 - 21:00</h3>
+          <p class="w3-justify w3-padding-16">We'll have a reception desk where registered attendees get their badge ..., there are drinks and finger food, and between 19:30 and 20:30 we have two presentations.</p>
+        </div>
+      </div>
+    </div>
+ <div class="w3-row w3-padding-32">
+      <div class="w3-half w3-container">
+        <div class="w3-panel w3-pale-yellow w3-border">
+          <h3 class="w3-wide w3-center">Opening keynote 19:30 - 20:00</h3>
+          <p class="w3-justify w3-padding-16">TurtleStitch at 10: Reflecting Back, Threading Forward<br>Reflecting on 10 years of TurtleStitch — and imagining what’s next.</p>
+          <p class="w3-justify w3-padding-16">As TurtleStitch marks its 10th anniversary, this talk looks back at the project's journey, celebrates the community that shaped it, and shares a vision for the future of creative, open, and educational technologies. A personal summary from the project lead Andrea Mayr-Stalder (<a href="https://turtlestitch.org/users/chmod">chmod</a>)</p>
+        </div>
+      </div>
+      <div class="w3-half w3-container">
+        <div class="w3-panel w3-pale-yellow w3-border">
+          <h3 class="w3-wide w3-center">Speedtalks 20:00 - 20:30</h3>
+          <p class="w3-justify w3-padding-16">A vibrant show where all attendees presenting activities in the weekend will have exactly 60 seconds to introduce themselves.</p>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+        <p>Contact: Stichting Scratchweb, Prinseneiland 4, NL-1013LR Amsterdam (Joek van Montfort +31641290984)</p>
+  <a href="https://mastodon.sdf.org/@turtlestitch@fosstodon.org" title="TurtleStitch Mastodon Handle" target="blank"><i class="fa fa-mastodon w3-hover-opacity"></i></a>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 4000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+  function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("caption").innerHTML = element.alt;
+  document.getElementById("modal01").style.display = "block";
+}
+
+</script>
+
+</body>
+</html>
