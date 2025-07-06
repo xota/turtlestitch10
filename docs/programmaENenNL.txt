@@ -1,0 +1,543 @@
+Presenter:	Alle aanwezige TurtleStitchers (<a href="https://turtlestitch.org/users/NULL">NULL</a>)
+Code:	w1
+Weblink:	none
+Dag:	Friday
+Begintijd:	18:00
+Eindtijd:	19:00
+Ruimte:	Begane grond
+ProgramType:	workshop
+Titel-EN:	Teach the teacher
+Teaser-EN:	Teach the teacher. How to start teaching/using TurtleStitch
+Omschrijving-EN:	This could be very helpful for us as CoderDojo or other interested.
+Aanmelden: 	nee
+Titel-NL:	TurtleStitch training voor docenten
+Teaser-NL:	TurtleStitchTraining voor docenten. Hoe start je met onderwijzen in / gebruiken van TurtleStitch
+Omschrijving-NL:	Dit kan heel behulpzaam zijn als je in je workshops TurtleStitch wilt gebruiken. Zeker voor de vrijwillige begeleiders bij Coderdojo. 
+
+Presenter:	Andrea Mayr-Stalder (<a href="https://turtlestitch.org/users/chmod">chmod</a>)
+Code:	o1
+Weblink:	none
+Dag:	Friday
+Begintijd:	19:30
+Eindtijd:	20:00
+Ruimte:	Large auditorium
+ProgramType:	talk
+Titel-EN:	TurtleStitch at 10: Reflecting Back, Threading Forward
+Teaser-EN:	Reflecting on 10 years of TurtleStitch — and imagining what’s next
+Omschrijving-EN:	As TurtleStitch marks its 10th anniversary, this talk looks back at the project's journey, celebrates the community that shaped it, and shares a vision for the future of creative, open, and educational technologies. A personal summary from the project lead
+Aanmelden: 	nee
+Titel-NL:	TurtleStitch at 10: Reflecting Back, Threading Forward
+Teaser-NL:	Reflecting on 10 years of TurtleStitch — and imagining what’s next
+Omschrijving-NL:	As TurtleStitch marks its 10th anniversary, this talk looks back at the project's journey, celebrates the community that shaped it, and shares a vision for the future of creative, open, and educational technologies. A personal summary from the project lead
+
+Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
+Code:	o2
+Weblink:	none
+Dag:	Friday
+Begintijd:	20:00
+Eindtijd:	20:30
+Ruimte:	Large auditorium
+ProgramType:	talk
+Titel-EN:	Speedtalks
+Teaser-EN:	All contributors will get exactly 60 seconds to introduce themselves and give sneak peak into their contribution
+Omschrijving-EN:	Doubles as a celebration of the diversity TurtleStitch embraces.
+Aanmelden: 	nee
+Titel-NL:	Speedtalks
+Teaser-NL:	All contributors will get exactly 60 seconds to introduce themselves and give sneak peak into their contribution
+Omschrijving-NL:	Doubles as a celebration of the diversity TurtleStitch embraces.
+
+Presenter:	Paul-Reza Klein, Walter Lunzer  (<a href="https://turtlestitch.org/users/prntr">prntr</a>)
+Code:	t1a
+Weblink:	https://bibliotheekmb.op-shop.nl/20021/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	9:30
+Eindtijd:	10:30
+Ruimte:	Large auditorium
+ProgramType:	medium
+Titel-EN:	StichLAB meets TurtleStitch
+Teaser-EN:	Introducing StichLAB, an OpenSource DIY Embroidery Maschine featuring  TurtleStich
+Omschrijving-EN:	StitchLAB is a low-cost, open-source embroidery machine created by upgrading old sewing machines with widely available DIY 3D-printer components and software. The modular hardware (3D-printed parts, Raspberry Pi) and software (Klipper) enable new and exciting ways to work with embroidery machines—whether stitching with a game controller or running TurtleStitch directly on the machine. This workshop provides insights into the development process and a hands-on experience with the machine. StitchLAB was developed by Paul-Reza Klein (Studio Praxistest), Walter Lunzer, and Ute Neuber (Department of Textiles) at the University of Applied Arts Vienna.
+Aanmelden: 	nee
+Titel-NL:	StichLAB meets TurtleStitch
+Teaser-NL:	Introducing StichLAB, an OpenSource DIY Embroidery Maschine featuring  TurtleStich
+Omschrijving-NL:	StitchLAB is a low-cost, open-source embroidery machine created by upgrading old sewing machines with widely available DIY 3D-printer components and software. The modular hardware (3D-printed parts, Raspberry Pi) and software (Klipper) enable new and exciting ways to work with embroidery machines—whether stitching with a game controller or running TurtleStitch directly on the machine. This workshop provides insights into the development process and a hands-on experience with the machine. StitchLAB was developed by Paul-Reza Klein (Studio Praxistest), Walter Lunzer, and Ute Neuber (Department of Textiles) at the University of Applied Arts Vienna.
+
+Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
+Code:	t1b
+Weblink:	https://bibliotheekmb.op-shop.nl/20021/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	9:30
+Eindtijd:	10:30
+Ruimte:	Large auditorium
+ProgramType:	long
+Titel-EN:	From Seashore to TurtleStitch
+Teaser-EN:	How seaweed made me a better coder.
+Omschrijving-EN:	Living on the Atlantic coast in Newport, Rhode Island, I found myself getting curious about seaweed. I kept thinking, ""I should be able to embroider these beautiful specimens."" After two years, I finally figured out how to code them in TurtleStitch. Join me on this journey of discovery without even getting your feet wet!
+Aanmelden: 	nee
+Titel-NL:	From Seashore to TurtleStitch
+Teaser-NL:	How seaweed made me a better coder.
+Omschrijving-NL:	Living on the Atlantic coast in Newport, Rhode Island, I found myself getting curious about seaweed. I kept thinking, ""I should be able to embroider these beautiful specimens."" After two years, I finally figured out how to code them in TurtleStitch. Join me on this journey of discovery without even getting your feet wet!
+
+Name	CoderDojo Tilburg
+Code:	c1
+Weblink:	https://bibliotheekmb.op-shop.nl/20039/coderdojo/19-07-2025
+Dag:	Saturday
+Begintijd:	9:30
+Eindtijd:	11:30
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	CoderDojo
+Teaser-EN:	CoderDojo session for  CoderDojo children
+Omschrijving-EN:	CoderDojo Tilburg
+Aanmelden: 	via de Coderdojo pagina
+Titel-NL:	CoderDojo
+Teaser-NL:	CoderDojo session voor CoderDojo kinderen
+Omschrijving-NL:	CoderDojo Tilburg
+
+Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
+Code:	t2a
+Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	10:30
+Eindtijd:	11:30
+Ruimte:	Small auditorium
+ProgramType:	short
+Titel-EN:	Get Up and Running with TurtleStitch
+Teaser-EN:	How well can you code with your feet?
+Omschrijving-EN:	Put down your computer, tie up your shoes, and make the world your TurtleStitch stage. All you need is a free running app to start coding with your feet. You can plan out your path or simply see where your feet take you. When you are finished, you’ll have an image of how you moved through space. This will be used to code a satisfying TurtleStitch design.  Don’t be surprised to find that you are challenged to walk/run more, making TurtleStitch a part of a creative and healthy lifestyle.
+Aanmelden: 	nee
+Titel-NL:	Get Up and Running with TurtleStitch
+Teaser-NL:	How well can you code with your feet?
+Omschrijving-NL:	Put down your computer, tie up your shoes, and make the world your TurtleStitch stage. All you need is a free running app to start coding with your feet. You can plan out your path or simply see where your feet take you. When you are finished, you’ll have an image of how you moved through space. This will be used to code a satisfying TurtleStitch design.  Don’t be surprised to find that you are challenged to walk/run more, making TurtleStitch a part of a creative and healthy lifestyle.
+
+Presenter:	Jacob Tekiela (<a href="https://turtlestitch.org/users/tekiela">tekiela</a>)
+Code:	t2b
+Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	10:30
+Eindtijd:	11:30
+Ruimte:	Small auditorium
+ProgramType:	short
+Titel-EN:	Shared pattern library
+Teaser-EN:	Shared Library brainstrorm 
+Omschrijving-EN:	A presentation of a work-in-progress library of patterns up for discussion 
+Aanmelden: 	nee
+Titel-NL:	Shared pattern library
+Teaser-NL:	Shared Library brainstrorm 
+Omschrijving-NL:	A presentation of a work-in-progress library of patterns up for discussion 
+
+Presenter:	Jadga Hügle (<a href="https://turtlestitch.org/users/jadga">jadga</a>)
+Code:	t2c
+Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	10:30
+Eindtijd:	11:30
+Ruimte:	Small auditorium
+ProgramType:	short
+Titel-EN:	10 things you might not have known about TurtleStitch
+Teaser-EN:	Learn a couple of tricks in the TurtleStitch IDE that you might not yet be aware of :)
+Omschrijving-EN:	Snap! has a lot of power user features that are also available in TurtleStitch. But as it is often with these features, they aren't really discoverable if you don't already know that they are there. In this talk, I want to share 10 tips in 10 minutes of things that you might not yet be aware of that help me program in TurtleStitch or write curriculum. Learn how to translate custom blocks or create your own block libraries to share with a class, create script and IDE pictures without backgrounds, create blocks with images in the block titles and many more helpful features.
+Aanmelden: 	nee
+Titel-NL:	10 things you might not have known about TurtleStitch
+Teaser-NL:	Learn a couple of tricks in the TurtleStitch IDE that you might not yet be aware of :)
+Omschrijving-NL:	Snap! has a lot of power user features that are also available in TurtleStitch. But as it is often with these features, they are not really discoverable if you don't already know that theyare there. In this talk, I want to share 10 tips in 10 minutes of things that you might not yet be aware of that help me program in TurtleStitch or write curriculum. Learn how to translate custom blocks or create your own block libraries to share with a class, create script and IDE pictures without backgrounds, create blocks with images in the block titles and many more helpful features.
+
+Presenter:	Richard Millwood (<a href="https://turtlestitch.org/users/Richard">Richard</a>)
+Code:	t2d
+Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	10:30
+Eindtijd:	11:30
+Ruimte:	Small auditorium
+ProgramType:	short
+Titel-EN:	Small is beautiful - focussing on the stitch
+Teaser-EN:	TurtleStitch comes with some repeating styles for stitching - can we vary as we sew?
+Omschrijving-EN:	Great aesthetic value is gained by using a computer to generate interesting graphic forms using TurtleStitch, but usually stitches which are built in to TurtleStitch are used. This talk is to explain how we can use TurtleStitch to vary the stitches themselves, so that they may change their form according to an algorithm, random chance or some linear function of their position in a line of sewing. Such a focus on the micro level is certainly found in hand sewing and may prove a fertile area for artistic and mathematical exploration.
+Aanmelden: 	nee
+Titel-NL:	Small is beautiful - focussing on the stitch
+Teaser-NL:	TurtleStitch comes with some repeating styles for stitching - can we vary as we sew?
+Omschrijving-NL:	Great aesthetic value is gained by using a computer to generate interesting graphic forms using TurtleStitch, but usually stitches which are built in to TurtleStitch are used. This talk is to explain how we can use TurtleStitch to vary the stitches themselves, so that they may change their form according to an algorithm, random chance or some linear function of their position in a line of sewing. Such a focus on the micro level is certainly found in hand sewing and may prove a fertile area for artistic and mathematical exploration.
+
+Name	Martine van 't Hul
+Code:	t2e
+Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	10:30
+Eindtijd:	11:30
+Ruimte:	Small auditorium
+ProgramType:	short
+Titel-EN:	From Sketch to Stitch: Your Own Badge
+Teaser-EN:	 Design your own badge shape, digitize it and embroider it with the machine.
+Omschrijving-EN:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches.RETURNDuring this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques.RETURNAfterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
+Aanmelden: 	nee
+Titel-NL:	From Sketch to Stitch: Your Own Badge
+Teaser-NL:	 Design your own badge shape, digitize it and embroider it with the machine.
+Omschrijving-NL:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches. During this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques. Afterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
+
+Name	Matthew Koomson (via Zoom)
+Code:	w2
+Weblink:	https://bibliotheekmb.op-shop.nl/20032/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	12:00
+Eindtijd:	13:00
+Ruimte:	Futurelab
+ProgramType:	workshop
+Titel-EN:	Blending Code and Craft: Interactive Embroidery with Sensors and TurtleStitch
+Teaser-EN:	Explore how TurtleStitch and basic electronics can be combined to create dynamic, interactive embroidery pieces that respond to touch, motion, or sound.
+Omschrijving-EN:	In this workshop, participants will learn how to design embroidered patterns in TurtleStitch and integrate simple electronic components (like LEDs, touch sensors, or motion sensors) into their fabric projects using conductive thread and microcontrollers. The session will introduce basic concepts of e-textiles, show real-world applications, and guide participants through a hands-on project to build a small interactive embroidery prototype. This workshop is ideal for educators, makers, and designers looking to merge art, technology, and storytelling through fabric-based computing.
+Aanmelden: 	nee
+Titel-NL:	Blending Code and Craft: Interactive Embroidery with Sensors and TurtleStitch
+Teaser-NL:	In this workshop, participants will learn how to design embroidered patterns in TurtleStitch and integrate simple electronic components (like LEDs, touch sensors, or motion sensors) into their fabric projects using conductive thread and microcontrollers. The session will introduce basic concepts of e-textiles, show real-world applications, and guide participants through a hands-on project to build a small interactive embroidery prototype. This workshop is ideal for educators, makers, and designers looking to merge art, technology, and storytelling through fabric-based computing.RETURNBring your laptop!
+Omschrijving-NL:	In this workshop, participants will learn how to design embroidered patterns in TurtleStitch and integrate simple electronic components (like LEDs, touch sensors, or motion sensors) into their fabric projects using conductive thread and microcontrollers. The session will introduce basic concepts of e-textiles, show real-world applications, and guide participants through a hands-on project to build a small interactive embroidery prototype. This workshop is ideal for educators, makers, and designers looking to merge art, technology, and storytelling through fabric-based computing.
+
+Presenter:	Pauline Maas (<a href="https://turtlestitch.org/users/4pipt">4pipt</a>)
+Code:	t3a
+Weblink:	https://bibliotheekmb.op-shop.nl/20023/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	12:00
+Eindtijd:	13:00
+Ruimte:	Large auditorium
+ProgramType:	medium
+Titel-EN:	Turtle Stitch with our visual impaired students
+Teaser-EN:	Showing what is possible with our visual impaired students and turtle stitch
+Omschrijving-EN:	A talk about how we teach TurtleStitch with our visual impaired students (12-14 year) in 6 lessons. What are the challenges and what are the results. How can we implement math in the lessons? We will show the results, our material with braille. What will work for them and what will not work for them. My collegue Anniemiek van Leendert will also support me with her ideas. Her expertise is mathematics for braille students.  
+Aanmelden: 	nee
+Titel-NL:	Turtle Stitch met onze slechtziende leerlingen
+Teaser-NL:	Laten zien wat er mogelijk is met onze slechtziende leerlingen en TurtleStitch
+Omschrijving-NL:	A talk about how we teach TurtleStitch with our visual impaired students (12-14 year) in 6 lessons. What are the challenges and what are the results. How can we implement math in the lessons? We will show the results, our material with braille. What will work for them and what will not work for them. My collegue Anniemiek van Leendert will also support me with her ideas. Her expertise is mathematics for braille students.  
+
+Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
+Code:	t3b
+Weblink:	https://bibliotheekmb.op-shop.nl/20023/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	12:00
+Eindtijd:	13:00
+Ruimte:	Large auditorium
+ProgramType:	medium
+Titel-EN:	Chicken & Chips
+Teaser-EN:	A hands-on sensemaking exercise to introduce ourselves to the role semi-conductors in electronic circuits
+Omschrijving-EN:	All computers depend on semi-conducting materials - this brief excercise might help us to understand and appreciate them.RETURNWe will form a human circuit incorporating a small chirpy chicken toy called Pieu Pieu, who will act as both input (battery) and output (chirper) in our circuit. RETURNWe will do a group investigation into conducting and non-conducting materials in simple circuits.RETURNWe will introduce ourselves to semi-conducting materials using a diode which is central to all electronic circuits. We will learn a little about these materials - their source and sustainability. Each of us can then use these materials to make and take way a personalised LED 'Glowie'.RETURNA table for putting stuff on is the only furniture needed.RETURNSpace for standing in a circle. A supply of 3V lithium 'coin' batteries (cheapest from IKEA or some such discount store).RETURNLEDS.Sticky tape.RETURNWill people have name badges or some such - they can stick their 'glowies' on the badges.
+Aanmelden: 	nee
+Titel-NL:	Chicken & Chips
+Teaser-NL:	A hands-on sensemaking exercise to introduce ourselves to the role semi-conductors in electronic circuits
+Omschrijving-NL:	All computers depend on semi-conducting materials - this brief excercise might help us to understand and appreciate them.RETURNWe will form a human circuit incorporating a small chirpy chicken toy called Pieu Pieu, who will act as both input (battery) and output (chirper) in our circuit.RETURNWe will do a group investigation into conducting and non-conducting materials in simple circuits.RETURNWe will introduce ourselves to semi-conducting materials using a diode which is central to all electronic circuits. We will learn a little about these materials - their source and sustainability.RETURNEach of us can then use these materials to make and take away a personalised LED 'Glowie'. 
+
+Presenter:	Cynthia Solomon (<a href="https://turtlestitch.org/users/cynthiasolomon">cynthiasolomon</a>)
+Code:	w3
+Weblink:	https://bibliotheekmb.op-shop.nl/20024/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	12:00
+Eindtijd:	13:00
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	Starting TurtleStitch
+Teaser-EN:	Cynthia and Beth will get you started
+Omschrijving-EN:	Originally this workshop was given with late Susan Klimczak and Elaine Wolfe who's attending online.
+Aanmelden: 	via LocHal
+Titel-NL:	Starten met TurtleStitch
+Teaser-NL:	Cynthia and Beth zullen je laten starten
+Omschrijving-NL:	Hier leer je om met TurtleStitch aan de gang te gaan
+
+Presenter:	Bhavik Dodda (via Zoom) (<a href="https://turtlestitch.org/users/Bhavik_Dodda">Bhavik_Dodda</a>)
+Code:	t4a
+Weblink:	https://bibliotheekmb.op-shop.nl/20025/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	14:00
+Eindtijd:	15:00
+Ruimte:	Futurelab
+ProgramType:	medium
+Titel-EN:	Face Stitching
+Teaser-EN:	Stich your face with a single continuous line!
+Omschrijving-EN:	Given a picture of your face or any sketch, we can turn it into an embroidery/stitch using just a single continuous line! This project has been inspired by ""Mona Lisa TSP Challenge"" by the University of Waterloo. In the talk, I'm going to cover all the necessary domain knowledge required to theoretically compute it as well as walk you through the entire pipeline of the project to go from the input image to finally exporting the .dst file, which can be imported into your sewing machine to stitch your image.
+Aanmelden: 	nee
+Titel-NL:	Face Stitching
+Teaser-NL:	Stich your face with a single continuous line!
+Omschrijving-NL:	Given a picture of your face or any sketch, we can turn it into an embroidery/stitch using just a single continuous line! This project has been inspired by ""Mona Lisa TSP Challenge"" by the University of Waterloo. In the talk, I'm going to cover all the necessary domain knowledge required to theoretically compute it as well as walk you through the entire pipeline of the project to go from the input image to finally exporting the .dst file, which can be imported into your sewing machine to stitch your image.
+
+Presenter:	Elaine Wolfe (via Zoom) (<a href="https://turtlestitch.org/users/Elaine">Elaine</a>)
+Code:	t4b
+Weblink:	https://bibliotheekmb.op-shop.nl/20025/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	14:00
+Eindtijd:	15:00
+Ruimte:	Futurelab
+ProgramType:	short
+Titel-EN:	The Beauty of Coding:  Koch Snowflake
+Teaser-EN:	This TurtleStitch program is a recursive program
+Omschrijving-EN:	A link to the slides, https://docs.google.com/presentation/d/1IBXjHPVGl6vBtBFvvbJIAZbq6kvitxws86n_5CLEObs/edit?usp=sharing
+Aanmelden: 	nee
+Titel-NL:	The Beauty of Coding:  Koch Snowflake
+Teaser-NL:	This TurtleStitch program is a recursive program
+Omschrijving-NL:	We will explore Koch Snowflakes in a way that everyone can embroider them
+
+Name	Stephen Howell
+Code:	w4
+Weblink:	https://bibliotheekmb.op-shop.nl/20040/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	14:00
+Eindtijd:	15:30
+Ruimte:	Small auditorium
+ProgramType:	extended
+Titel-EN:	Bodies as Data: From Pose Detection to Stitched Patterns
+Teaser-EN:	Create stitched patterns using your body as the creative input, no keyboard or mouse needed!
+Omschrijving-EN:	Participants will explore how machine learning pose detection can transform physical movement into creative data streams. Using familiar Scratch blocks, we'll build projects that capture body positions and gestures, then investigate how this embodied data might translate into stitchable patterns and designs.
+Aanmelden: 	via LocHal
+Titel-NL:	Lichamen als data: van houdingdetectie tot gestikte patronen
+Teaser-NL:	Maak gestikte patronen met je lichaam als creatieve input. Je hebt geen toetsenbord of muis nodig!
+Omschrijving-NL:	Deelnemers onderzoeken hoe houdingdetectie met machine learning fysieke bewegingen kan omzetten in creatieve datastromen. Met behulp van bekende Scratch-blokken bouwen we projecten die lichaamshoudingen en gebaren vastleggen. Vervolgens onderzoeken we hoe deze data vertaald kan worden naar patronen en ontwerpen die je kunt borduren.
+
+Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
+Code:	w5
+Weblink:	https://bibliotheekmb.op-shop.nl/20026/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	14:00
+Eindtijd:	15:00
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	Open workshop
+Teaser-EN:	If you prefer doing over talking, making over listening …
+Omschrijving-EN:	Workshop space is open to all. There may be someone who wants to demo something but all can come to just learn while making together
+Aanmelden: 	via LocHal
+Titel-NL:	Open workshop
+Teaser-NL:	Als je liever doet dan praat, en liever maakt dan luistert …
+Omschrijving-NL:	De workshopruimte is voor iedereen toegankelijk. Er kan iemand zijn die iets wil demonstreren, maar iedereen kan komen om gewoon te leren en samen te maken.
+
+Presenter:	Susan Ettenheim (via Zoom) (<a href="https://turtlestitch.org/users/susanettenheim">susanettenheim</a>)
+Code:	w6
+Weblink:	https://bibliotheekmb.op-shop.nl/20033/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:00
+Eindtijd:	16:00
+Ruimte:	Futurelab
+ProgramType:	workshop
+Titel-EN:	Instagrammable
+Teaser-EN:	How to Make TurtleStitch Projects Instagram Worthy! ... and what does that really mean?
+Omschrijving-EN:	We can teach computer science through the arts. RETURNWe can make the abstract of coding and programming real and touchable with TurtleStitch. RETURNThe bigger question that remains, is how do we fill that gap between the point of making a coded TurtleStitch project and the point when a student (or any human) is so excited that they want to Instagram it? And what does that even mean?RETURNRETURNWhen a project becomes personally expressive and satisfying, it is human nature to share it and isn’t that exactly what defines great learning? How do we articulate the pedagogy that creates these magic moments and why is TurtleStich a perfect companion for this mission?RETURNRETURNThis workshop proposes some concrete steps and projects to use to inspire and bridge that gap.
+Aanmelden: 	nee
+Titel-NL:	Instagrammable
+Teaser-NL:	How to Make Turtlestitch Projects Instagram Worthy! ... and what does that really mean?
+Omschrijving-NL:	We can teach computer science through the arts. We can make the abstract of coding and programming real and touchable with Turtlestitch. The bigger question that remains, is how do we fill that gap between the point of making a coded Turtlestitch project and the point when a student (or any human) is so excited that they want to Instagram it? And what does that even mean?RETURNWhen a project becomes personally expressive and satisfying, it is human nature to share it and isn’t that exactly what defines great learning? How do we articulate the pedagogy that creates these magic moments and why is TurtleStich a perfect companion for this mission?RETURNThis workshop proposes some concrete steps and projects to use to inspire and bridge that gap.
+
+Name	Martine van 't Hul
+Code:	w7
+Weblink:	https://bibliotheekmb.op-shop.nl/20028/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:00
+Eindtijd:	16:30
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	From Sketch to Stitch: Your Own Badge
+Teaser-EN:	 Design your own badge shape, digitize it and embroider it with the machine.
+Omschrijving-EN:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches.RETURNDuring this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques.RETURNAfterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
+Aanmelden: 	via LocHal
+Titel-NL:	Van schets tot borduursel: je eigen badgeTeaser-NL:	 
+Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine.
+Omschrijving-NL:	Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine. Breng hem vervolgens tot leven met handborduursteken. Tijdens deze workshop leer je de basisprincipes van digitaliseren, machinaal borduren en handborduurtechnieken. Daarna ga je naar huis met je eigen handgemaakte badge – perfect om een kledingstuk te repareren of te versieren.
+
+Presenter:	Margaret Minsky (<a href="https://turtlestitch.org/users/margmarg">margmarg</a>)
+Code:	t5a
+Weblink:	https://bibliotheekmb.op-shop.nl/20034/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:30
+Eindtijd:	16:30
+Ruimte:	Large auditorium
+ProgramType:	short
+Titel-EN:	Computer Embroidery Partners
+Teaser-EN:	Learning from Other ways to Design Machine Embroidery
+Omschrijving-EN:	A roundup of other experiments with other pipelines for machine embroidery. Let's learn together and discuss how these relate to TurtleStitch.
+Aanmelden: 	nee
+Titel-NL:	Computer Embroidery Partners
+Teaser-NL:	Learning from Other ways to Design Machine Embroidery
+Omschrijving-NL:	A roundup of other experiments with other pipelines for machine embroidery. Let's learn together and discuss how these relate to TurtleStitch.
+
+Presenter:	Maria Beatrice Rapaccini (<a href="https://turtlestitch.org/users/brapacc">brapacc</a>)
+Code:	t5b
+Weblink:	https://bibliotheekmb.op-shop.nl/20034/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:30
+Eindtijd:	16:30
+Ruimte:	Large auditorium
+ProgramType:	short
+Titel-EN:	Arachne and Téchne: the story of a turtle who wanted to become a spider
+Teaser-EN:	 From weaving a spider web to coding a TurtleStitch project
+Omschrijving-EN:	In this talk, we explore the story of human creativity, starting with the myth of Arachne. We look at how weaving tools have changed over time, from hand-weaving to the invention of the Jacquard loom. We’ll see how punched cards, used in the loom, helped to inspire the first ideas of modern computing. Even though weaving and programming seem very different, they share surprising connections. By mixing old and new technologies, we show how TurtleStitch Platform supports creative collaboration, using code as a new thread of expression.
+Aanmelden: 	nee
+Titel-NL:	Arachne and Téchne: the story of a turtle who wanted to become a spider
+Teaser-NL:	 From weaving a spider web to coding a TurtleStitch project
+Omschrijving-NL:	In this talk, we explore the story of human creativity, starting with the myth of Arachne. We look at how weaving tools have changed over time, from hand-weaving to the invention of the Jacquard loom. We’ll see how punched cards, used in the loom, helped to inspire the first ideas of modern computing. Even though weaving and programming seem very different, they share surprising connections. By mixing old and new technologies, we show how TurtleStitch Platform supports creative collaboration, using code as a new thread of expression.
+
+Presenter:	Jadga Hügle (<a href="https://turtlestitch.org/users/jadga">jadga</a>)
+Code:	t5c
+Weblink:	https://bibliotheekmb.op-shop.nl/20034/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:30
+Eindtijd:	16:30
+Ruimte:	Large auditorium
+ProgramType:	medium
+Titel-EN:	Finding Patterns in Your Environment
+Teaser-EN:	Geometry is everywhere around us - let's use it to create local, custom merchandise
+Omschrijving-EN:	For quite a while I've noticed that geometric patterns are all around us. And if you've seen them once, you can't unsee them. RETURNIn this talk, I want to share a couple of ideas from different cities and cultural backgrounds on how to use these unique geometries for generative art in TurtleStitch. How to identify patterns, recode and remix them and make custom merchandise for your city, region, school,...
+Aanmelden: 	nee
+Titel-NL:	Finding Patterns in Your Environment
+Teaser-NL:	Geometry is everywhere around us - let's use it to create local, custom merchandise
+Omschrijving-NL:	For quite a while I've noticed that geometric patterns are all around us. And if you've seen them once, you can't unsee them. In this talk, I want to share a couple of ideas from different cities and cultural backgrounds on how to use these unique geometries for generative art in TurtleStitch. How to identify patterns, recode and remix them and make custom merchandise for your city, region, school,...
+
+Presenter:	Jacob Tekiela (<a href="https://turtlestitch.org/users/tekiela">tekiela</a>)
+Code:	t5d
+Weblink:	https://bibliotheekmb.op-shop.nl/20034/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
+Dag:	Saturday
+Begintijd:	15:30
+Eindtijd:	16:30
+Ruimte:	Large auditorium
+ProgramType:	medium
+Titel-EN:	Expermental mixed-media Practice
+Teaser-EN:	Showcasing experimental embrodey works by danish artist Jacob Tekiela
+Omschrijving-EN:	I will showcase some expermental  mixed-media  embroidery projects, using laserengraving,  cyanotype, stencils and varied materials …  using nature motifs as inspiation 
+Aanmelden: 	nee
+Titel-NL:	Expermental mixed-media Practice
+Teaser-NL:	Showcasing experimental embrodery works by Danish artist Jacob Tekiela
+Omschrijving-NL:	I will showcase some experimental  mixed-media  embroidery projects, using laserengraving, cyanotype, stencils and varied materials …  using nature motifs as inspiration 
+
+Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
+Code:	tm
+Weblink:	xxx
+Dag:	Saturday
+Begintijd:	19:30
+Eindtijd:	21:00
+Ruimte:	Hostel Roots Bar (Stationstraat 41)
+ProgramType:	workshop
+Titel-EN:	TeachMeet
+Teaser-EN:	Sharing random short stories in a social setting
+Omschrijving-EN:	The TeachMeet is an Open Space at which all are welcome. RETURNAttendees are invited to put their name down to do share a short presentation (between 2 and 7 minutes approx.) in a relaxed atmosphere. There is no strict agenda. The order will be randomly chosen on the night. It is a social ocassion, at which we can learn from each other as well as relax together. Timekeeping will be strict but fun! 
+Aanmelden: 	nee
+Titel-NL:	TeachMeet
+Teaser-NL:	Sharing random short stories in a social setting
+Omschrijving-NL:	The TeachMeet is an Open Space at which all are welcome. Attendees are invited to put their name down to share a short presentation (between 2 and 7 minutes approx.) in a relaxed atmosphere. There is no strict agenda. The order will be randomly chosen on the night. It is a social occasion, at which we can learn from each other as well as relax together. Timekeeping will be strict but fun! 
+
+Presenter:	Richard Millwood (<a href="https://turtlestitch.org/users/Richard">Richard</a>)
+Code:	w8
+Weblink:	https://bibliotheekmb.op-shop.nl/20029/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	12:00
+Eindtijd:	12:30
+Ruimte:	Small auditorium
+ProgramType:	workshop
+Titel-EN:	How do we say our code out loud?
+Teaser-EN:	Jigsaw programming is very visual but this doesn't help us to say it out loud - how should we?
+Omschrijving-EN:	It is a known problem that people are diverse in the way they read out loud a computer program, and that this may indicate a problem regarding their understanding the program. This workshop will demonstrate an early prototype of a Snap! microworld with limited commands and using turtle graphics to help the development of a 'speaking' literacy with regard to Snap! programs. Participants who enjoy designing or are interested in pedagogy for early programmers will practically take the prototype further in small groups or as individuals to explore the ideas and improve the practice.
+Aanmelden: 	nee
+Titel-NL:	How do we say our code out loud?
+Teaser-NL:	Jigsaw programming is very visual but this doesn't help us to say it out loud - how should we?
+Omschrijving-NL:	It is a known problem that people are diverse in the way they read out loud a computer program, and that this may indicate a problem regarding their understanding of the program. This workshop will demonstrate an early prototype of a Snap! microworld with limited commands and using turtle graphics to help the development of a 'speaking' literacy with regard to Snap! programs. Participants who enjoy designing or are interested in pedagogy for early programmers will practically take the prototype further in small groups or as individuals to explore the ideas and improve the practice.
+
+Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
+Code:	t6
+Weblink:	https://bibliotheekmb.op-shop.nl/20031/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	12:30
+Eindtijd:	13:30
+Ruimte:	Futurelab
+ProgramType:	long
+Titel-EN:	Blockly Games - learn to think like a turtle
+Teaser-EN:	Navigate the maze, make movies with maths, make music and more
+Omschrijving-EN:	In this self-paced workshop, we will work with a partner through the Blockly levels ....RETURN> navigate the maze with Google MapMan, solve level 10 and claim a prize!RETURN> use conditionals in control-flow to fly the Bird past the snakes back to her nextRETURN> use loops and nested loops to take the Turtle on a tripRETURN> use maths equations to make a mini animated MovieRETURN> use functions to compose music for your own mini-orchestraRETURN> switch between block based and text based commands in the battle PondRETURNRETURNNeil Frazer's Blockly Games are designed as an introduction, a precursor to text-based programming. There are built-in exit strategies in the design - text on blocks is in lower case, java script displayed after each block based success, the final game is built within a text editor.  Contextually aware popups appear and disappear to help with flow.
+Aanmelden: 	nee
+Titel-NL:	Blockly Games - learn to think like a turtle
+Teaser-NL:	Navigate the maze, make movies with maths, make music and more
+Omschrijving-NL:	In this self-paced workshop, we will work with a partner through the Blockly levels …LISTITEMnavigate the maze with Google MapMan, solve level 10 and claim a prize!LISTITEMuse conditionals in control-flow to fly the Bird past the snakes back to her nextLISTITEMuse loops and nested loops to take the Turtle on a tripLISTITEMuse maths equations to make a mini animated MovieLISTITEMuse functions to compose music for your own mini-orchestraLISTITEMswitch between block based and text-based commands in the battle PondLISTITEMNeil Frazer's Blockly Games are designed as an introduction, a precursor to text-based programming. There are built-in exit strategies in the design - text on blocks is in lower case, java script displayed after each block based success, the final game is built within a text editor.  Contextually aware popups appear and disappear to help with flow.
+
+Name	Stephen Howell
+Code:	t7
+Weblink:	https://bibliotheekmb.op-shop.nl/20030/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	12:30
+Eindtijd:	13:30
+Ruimte:	Large auditorium
+ProgramType:	long
+Titel-EN:	Beyond the Mouse & Keyboard: The Joy of Body-Responsive Coding
+Teaser-EN:	From clicks to kicks: how embodied interaction transforms the joy of learning to code
+Omschrijving-EN:	What shifts when students can control their Scratch projects by jumping, dancing, or striking poses instead of clicking keys or moving the mouse? This talk examines how ML-powered body tracking as input creates new forms of engagement and joy in programming education, making code feel alive and responsive to our full physical presence.
+Aanmelden: 	nee
+Titel-NL:	Beyond the Mouse & Keyboard: The Joy of Body-Responsive Coding
+Teaser-NL:	From clicks to kicks: how embodied interaction transforms the joy of learning to code
+Omschrijving-NL:	What shifts when students can control their Scratch projects by jumping, dancing, or striking poses instead of clicking keys or moving the mouse? This talk examines how ML-powered body tracking as input creates new forms of engagement and joy in programming education, making code feel alive and responsive to our full physical presence.
+
+Presenter:	CoderDojo Tilburg (<a href="https://turtlestitch.org/users/PeterMathijssen">PeterMathijssen</a>)
+Code:	c2
+Weblink:	https://bibliotheekmb.op-shop.nl/20038/coderdojo/20-07-2025
+Dag:	Sunday
+Begintijd:	12:30
+Eindtijd:	14:30
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	CoderDojo
+Teaser-EN:	CoderDojo session for  CoderDojo children
+Omschrijving-EN:	CoderDojo Tilburg
+Aanmelden: 	via Coderdojo
+Titel-NL:	CoderDojo
+Teaser-NL:	CoderDojo sessie for  CoderDojo kinderen
+Omschrijving-NL:	CoderDojo Tilburg, deze keer met Turtlestitch
+
+Presenter:	Simon Mong (<a href="https://turtlestitch.org/users/SimonMong">SimonMong</a>)
+Code:	w9
+Weblink:	https://bibliotheekmb.op-shop.nl/20035/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	13:30
+Eindtijd:	14:30
+Ruimte:	Futurelab
+ProgramType:	workshop
+Titel-EN:	TurtleStitch: Where Code Beats Pen!
+Teaser-EN:	Unleash your creativity without limits—TurtleStitch turns code into embroidery art faster than a pen!
+Omschrijving-EN:	To celebrate TurtleStitch’s 10th anniversary, this workshop introduces a major upgrade to two block libraries, enhancing both creative freedom and precision in machine embroidery. The new features include: (1) Natural Curve Drawing, enabling mouse-followed sketching that converts freehand gestures into smooth stitch-ready paths; (2) Smart Area Filling, allowing parametric control over angle, density, and custom stitch patterns; and (3) Custom Stitch & Fill Methods, supporting user-defined stitch styles (e.g., square, diamond) for reuse.RETURNRETURNParticipants will engage in a hands-on demo project, designing an embroidery pattern as intuitively as drawing on paper using keyboard and mouse input. By the end, attendees will master the new blocks for organic design and structured filling, create a personalized embroidery file for physical stitching, and gain inspiration for merging analog artistry with digital precision.RETURNRETURNThis workshop is ideal for coders, artists, and educators seeking to explore expressive and repeatable textile art. Join us in celebrating a decade of TurtleStitch by pushing its creative boundaries together.
+Aanmelden: 	nee
+Titel-NL:	TurtleStitch: Where Code Beats Pen!
+Teaser-NL:	Unleash your creativity without limits—TurtleStitch turns code into embroidery art faster than a pen!
+Omschrijving-NL:	To celebrate TurtleStitch’s 10th anniversary, this workshop introduces a major upgrade to two block libraries, enhancing both creative freedom and precision in machine embroidery. The new features include: (1) Natural Curve Drawing, enabling mouse-followed sketching that converts freehand gestures into smooth stitch-ready paths; (2) Smart Area Filling, allowing parametric control over angle, density, and custom stitch patterns; and (3) Custom Stitch & Fill Methods, supporting user-defined stitch styles (e.g., square, diamond) for reuse.RETURNParticipants will engage in a hands-on demo project, designing an embroidery pattern as intuitively as drawing on paper using keyboard and mouse input. By the end, attendees will master the new blocks for organic design and structured filling, create a personalized embroidery file for physical stitching, and gain inspiration for merging analog artistry with digital precision.RETURNThis workshop is ideal for coders, artists, and educators seeking to explore expressive and repeatable textile art. Join us in celebrating a decade of TurtleStitch by pushing its creative boundaries together.
+
+Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
+Code:	w10
+Weblink:	https://bibliotheekmb.op-shop.nl/20036/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	15:00
+Eindtijd:	16:00
+Ruimte:	Futurelab
+ProgramType:	workshop
+Aanmelden: 	via LocHal
+Titel-EN:	Get Up and Running with TurtleStitch
+Teaser-EN:	How well can you code with your feet?
+Omschrijving-EN:	Put down your computer, tie up your shoes, and make the world your TurtleStitch stage. All you need is a free running app to start coding with your feet. You can plan out your path or simply see where your feet take you. When you are finished, you’ll have an image of how you moved through space. This will be used to code a satisfying TurtleStitch design.  Don’t be surprised to find that you are challenged to walk/run more, making TurtleStitch a part of a creative and healthy lifestyle.
+Titel-NL:	Aan de slag met TurtleStitch
+Teaser-NL:	Hoe goed kun jij programmeren met je voeten?
+Omschrijving-NL:	We gaan in deze sessie je wandelingen die je met een app als Strava hebt vastgelegd borduren. Neem de output van je tracking app mee en ook een laptop en een shirt en dan borduur je je route daarop.RETURNDus: leg je computer weg, trek je schoenen aan en maak van de wereld jouw TurtleStitch-podium. Je hebt alleen een gratis hardloopapp nodig om te beginnen met programmeren met je voeten. Je kunt je route uitstippelen of gewoon zien waar je voeten je brengen. Als je klaar bent, heb je een afbeelding van hoe je door de ruimte bent gegaan. Dit wordt gebruikt om een bevredigend TurtleStitch-ontwerp te programmeren. Wees niet verbaasd als je merkt dat je meer moet lopen/rennen, waardoor TurtleStitch onderdeel wordt van een creatieve en gezonde levensstijl.
+
+Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
+Code:	b1
+Weblink:	xxx
+Dag:	Sunday
+Begintijd:	15:00
+Eindtijd:	16:00
+Ruimte:	Small auditorium
+ProgramType:	bof
+Aanmelden: 	nee
+Titel-EN:	Self organised support by TurtleStitch community
+Teaser-EN:	Setting up support is work. Inspired by efforts of our family (Scratch, Snap!, Microblocks) this workshop will build a similar system for the TurtleStitch community.
+Omschrijving-EN:	We want to group the questions and ideas of the community in a organised,  open and inviting place. Too much solutions live in inboxes a small group of people. Where they are forgotten, never updated. We realise this is the start of continuous work, so extra attention should be paid on how to manage this over months and years.
+Titel-NL:	Self organised support by TurtleStitch community
+Teaser-NL:	Setting up support is work. Inspired by efforts of our family (Scratch, Snap!, Microblocks) this workshop will build a similar system for the TurtleStitch community.
+Omschrijving-NL:	We want to group the questions and ideas of the community in a organised,  open and inviting place. Too much solutions live in inboxes a small group of people. Where they are forgotten, never updated. We realise this is the start of continuous work, so extra attention should be paid on how to manage this over months and years.
+
+Presenter:	Margaret Low (<a href="https://turtlestitch.org/users/megjlow">megjlow</a>)
+Code:	w11
+Weblink:	https://bibliotheekmb.op-shop.nl/20037/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
+Dag:	Sunday
+Begintijd:	15:00
+Eindtijd:	16:30
+Ruimte:	Workshops 1-3
+ProgramType:	workshop
+Titel-EN:	Loops, Twirls & Swirls
+Teaser-EN:	Creative and playful patterns exploring the built in embroidery commands. 
+Omschrijving-EN:	This hands-on workshop explores the creative potential of TurtleStitch’s built-in embroidery commands (the dark green section). Whether you’re new to TurtleStitch or looking expand your knowledge of TurtleStitch, this session will guide you through a variety of techniques to generate stunning geometric patterns using a range of built in embroidery commands. RETURNRETURNFrom precise lines and structured squares to the elegance of bows and intricate rectangles, we'll show how simple commands can produce complex and visually striking designs. Through interactive activities, you will experiment with key embroidery functions, understanding how adjustments in placement, repetition, and orientation can transform basic shapes into dynamic compositions.RETURNRETURNBy the end of the session, you will have gained confidence in using the full range of embroidery commands, equipping you with the skills to design your own unique designs. 
+Aanmelden: 	via LocHal
+Titel-NL:	Lussen, kronkels en wervelingen
+Teaser-NL:	Creatieve en speelse patronen die de ingebouwde borduuropdrachten verkennen.
+Omschrijving-NL:	Deze praktische workshop verkent het creatieve potentieel van de ingebouwde borduurcommando's van TurtleStitch (het donkergroene gedeelte). Of je nu nieuw bent met TurtleStitch of je kennis ervan wilt uitbreiden, deze sessie leidt je door diverse technieken om verbluffende geometrische patronen te creëren met behulp van een reeks ingebouwde borduurcommando's. Van precieze lijnen en gestructureerde vierkanten tot de elegantie van strikken en ingewikkelde rechthoeken, we laten zien hoe eenvoudige commando's complexe en visueel opvallende ontwerpen kunnen opleveren. Door middel van interactieve activiteiten experimenteer je met belangrijke borduurfuncties en leer je hoe aanpassingen in plaatsing, herhaling en oriëntatie basisvormen kunnen transformeren tot dynamische composities. Aan het einde van de sessie heb je vertrouwen gekregen in het gebruik van alle borduurcommando's, waardoor je de vaardigheden hebt om je eigen unieke creaties te ontwerpen.
