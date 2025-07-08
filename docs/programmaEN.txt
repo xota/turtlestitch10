@@ -4,7 +4,7 @@ Weblink:	none
 Dag:	Friday
 Begintijd:	18:00
 Eindtijd:	19:00
-Ruimte:	Begane grond
+Ruimte:	Workshop rooms
 ProgramType:	workshop
 Titel-EN:	Teach the teacher
 Teaser-EN:	Teach the teacher. How to start teaching/using TurtleStitch
@@ -63,7 +63,7 @@ Teaser-EN:	How seaweed made me a better coder.
 Omschrijving-EN:	Living on the Atlantic coast in Newport, Rhode Island, I found myself getting curious about seaweed. I kept thinking, ""I should be able to embroider these beautiful specimens."" After two years, I finally figured out how to code them in TurtleStitch. Join me on this journey of discovery without even getting your feet wet!
 Aanmelden: 	nee
 
-Name	CoderDojo Tilburg
+Name:	CoderDojo Tilburg
 Code:	c1
 Weblink:	https://bibliotheekmb.op-shop.nl/20039/coderdojo/19-07-2025
 Dag:	Saturday
@@ -128,7 +128,7 @@ Teaser-EN:	TurtleStitch comes with some repeating styles for stitching - can we 
 Omschrijving-EN:	Great aesthetic value is gained by using a computer to generate interesting graphic forms using TurtleStitch, but usually stitches which are built in to TurtleStitch are used. This talk is to explain how we can use TurtleStitch to vary the stitches themselves, so that they may change their form according to an algorithm, random chance or some linear function of their position in a line of sewing. Such a focus on the micro level is certainly found in hand sewing and may prove a fertile area for artistic and mathematical exploration.
 Aanmelden: 	nee
 
-Name	Martine van 't Hul
+Name:	Martine van 't Hul
 Code:	t2e
 Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -141,7 +141,7 @@ Teaser-EN:	 Design your own badge shape, digitize it and embroider it with the m
 Omschrijving-EN:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches.RETURNDuring this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques.RETURNAfterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
 Aanmelden: 	nee
 
-Name	Matthew Koomson (via Zoom)
+Name:	Matthew Koomson (via Zoom)
 Code:	w2
 Weblink:	https://bibliotheekmb.op-shop.nl/20032/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -219,7 +219,7 @@ Teaser-EN:	This TurtleStitch program is a recursive program
 Omschrijving-EN:	A link to the slides, https://docs.google.com/presentation/d/1IBXjHPVGl6vBtBFvvbJIAZbq6kvitxws86n_5CLEObs/edit?usp=sharing
 Aanmelden: 	nee
 
-Name	Stephen Howell
+Name:	Stephen Howell
 Code:	w4
 Weblink:	https://bibliotheekmb.op-shop.nl/20040/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -258,7 +258,7 @@ Teaser-EN:	How to Make TurtleStitch Projects Instagram Worthy! ... and what does
 Omschrijving-EN:	We can teach computer science through the arts. RETURNWe can make the abstract of coding and programming real and touchable with TurtleStitch. RETURNThe bigger question that remains, is how do we fill that gap between the point of making a coded TurtleStitch project and the point when a student (or any human) is so excited that they want to Instagram it? And what does that even mean?RETURNRETURNWhen a project becomes personally expressive and satisfying, it is human nature to share it and isn’t that exactly what defines great learning? How do we articulate the pedagogy that creates these magic moments and why is TurtleStich a perfect companion for this mission?RETURNRETURNThis workshop proposes some concrete steps and projects to use to inspire and bridge that gap.
 Aanmelden: 	nee
 
-Name	Martine van 't Hul
+Name:	Martine van 't Hul
 Code:	w7
 Weblink:	https://bibliotheekmb.op-shop.nl/20028/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -270,9 +270,6 @@ Titel-EN:	From Sketch to Stitch: Your Own Badge
 Teaser-EN:	 Design your own badge shape, digitize it and embroider it with the machine.
 Omschrijving-EN:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches.RETURNDuring this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques.RETURNAfterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
 Aanmelden: 	via LocHal
-Titel-NL:	Van schets tot borduursel: je eigen badgeTeaser-NL:	 
-Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine.
-Omschrijving-NL:	Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine. Breng hem vervolgens tot leven met handborduursteken. Tijdens deze workshop leer je de basisprincipes van digitaliseren, machinaal borduren en handborduurtechnieken. Daarna ga je naar huis met je eigen handgemaakte badge – perfect om een kledingstuk te repareren of te versieren.
 
 Presenter:	Margaret Minsky (<a href="https://turtlestitch.org/users/margmarg">margmarg</a>)
 Code:	t5a
@@ -365,7 +362,7 @@ Teaser-EN:	Navigate the maze, make movies with maths, make music and more
 Omschrijving-EN:	In this self-paced workshop, we will work with a partner through the Blockly levels ....RETURN> navigate the maze with Google MapMan, solve level 10 and claim a prize!RETURN> use conditionals in control-flow to fly the Bird past the snakes back to her nextRETURN> use loops and nested loops to take the Turtle on a tripRETURN> use maths equations to make a mini animated MovieRETURN> use functions to compose music for your own mini-orchestraRETURN> switch between block based and text based commands in the battle PondRETURNRETURNNeil Frazer's Blockly Games are designed as an introduction, a precursor to text-based programming. There are built-in exit strategies in the design - text on blocks is in lower case, java script displayed after each block based success, the final game is built within a text editor.  Contextually aware popups appear and disappear to help with flow.
 Aanmelden: 	nee
 
-Name	Stephen Howell
+Name:	Stephen Howell
 Code:	t7
 Weblink:	https://bibliotheekmb.op-shop.nl/20030/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
 Dag:	Sunday
