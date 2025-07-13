@@ -6,10 +6,10 @@ Begintijd:	18:00
 Eindtijd:	19:00
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	nee
 Titel-NL:	TurtleStitch training voor docenten
 Teaser-NL:	TurtleStitchTraining voor docenten. Hoe start je met onderwijzen in / gebruiken van TurtleStitch
 Omschrijving-NL:	Dit kan heel behulpzaam zijn als je in je workshops TurtleStitch wilt gebruiken. Zeker voor de vrijwillige begeleiders bij Coderdojo. 
+Aanmelden: 	nee
 
 Presenter:	Andrea Mayr-Stalder (<a href="https://turtlestitch.org/users/chmod">chmod</a>)
 Code:	o1
@@ -19,10 +19,10 @@ Begintijd:	19:30
 Eindtijd:	20:00
 Ruimte:	Kennismakerij
 ProgramType:	talk
-Aanmelden: 	nee
 Titel-NL:	TurtleStitch at 10: Reflecting Back, Threading Forward
 Teaser-NL:	Reflecting on 10 years of TurtleStitch — and imagining what’s next
 Omschrijving-NL:	As TurtleStitch marks its 10th anniversary, this talk looks back at the project's journey, celebrates the community that shaped it, and shares a vision for the future of creative, open, and educational technologies. A personal summary from the project lead
+Aanmelden: 	nee
 
 Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
 Code:	o2
@@ -32,10 +32,10 @@ Begintijd:	20:00
 Eindtijd:	20:30
 Ruimte:	Kennismakerij
 ProgramType:	talk
-Aanmelden: 	nee
 Titel-NL:	Speedtalks
 Teaser-NL:	All contributors will get exactly 60 seconds to introduce themselves and give sneak peak into their contribution
 Omschrijving-NL:	Doubles as a celebration of the diversity TurtleStitch embraces.
+Aanmelden: 	nee
 
 Presenter:	Paul-Reza Klein, Walter Lunzer  (<a href="https://turtlestitch.org/users/prntr">prntr</a>)
 Code:	t1a
@@ -45,10 +45,10 @@ Begintijd:	9:30
 Eindtijd:	10:30
 Ruimte:	Kennismakerij
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	StichLAB meets TurtleStitch
 Teaser-NL:	Introducing StichLAB, an OpenSource DIY Embroidery Maschine featuring  TurtleStich
 Omschrijving-NL:	StitchLAB is a low-cost, open-source embroidery machine created by upgrading old sewing machines with widely available DIY 3D-printer components and software. The modular hardware (3D-printed parts, Raspberry Pi) and software (Klipper) enable new and exciting ways to work with embroidery machines—whether stitching with a game controller or running TurtleStitch directly on the machine. This workshop provides insights into the development process and a hands-on experience with the machine. StitchLAB was developed by Paul-Reza Klein (Studio Praxistest), Walter Lunzer, and Ute Neuber (Department of Textiles) at the University of Applied Arts Vienna.
+Aanmelden: 	nee
 
 Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
 Code:	t1b
@@ -58,12 +58,12 @@ Begintijd:	9:30
 Eindtijd:	10:30
 Ruimte:	Kennismakerij
 ProgramType:	long
-Aanmelden: 	nee
 Titel-NL:	From Seashore to TurtleStitch
 Teaser-NL:	How seaweed made me a better coder.
 Omschrijving-NL:	Living on the Atlantic coast in Newport, Rhode Island, I found myself getting curious about seaweed. I kept thinking, ""I should be able to embroider these beautiful specimens."" After two years, I finally figured out how to code them in TurtleStitch. Join me on this journey of discovery without even getting your feet wet!
+Aanmelden: 	nee
 
-Name	CoderDojo Tilburg
+Name:	CoderDojo Tilburg
 Code:	c1
 Weblink:	https://bibliotheekmb.op-shop.nl/20039/coderdojo/19-07-2025
 Dag:	Saturday
@@ -71,10 +71,10 @@ Begintijd:	9:30
 Eindtijd:	11:30
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via de Coderdojo pagina
 Titel-NL:	CoderDojo
 Teaser-NL:	CoderDojo session voor CoderDojo kinderen
 Omschrijving-NL:	CoderDojo Tilburg
+Aanmelden: 	via de Coderdojo pagina
 
 Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
 Code:	t2a
@@ -84,10 +84,10 @@ Begintijd:	10:30
 Eindtijd:	11:30
 Ruimte:	Stemmingmakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	Get Up and Running with TurtleStitch
 Teaser-NL:	How well can you code with your feet?
 Omschrijving-NL:	Put down your computer, tie up your shoes, and make the world your TurtleStitch stage. All you need is a free running app to start coding with your feet. You can plan out your path or simply see where your feet take you. When you are finished, you’ll have an image of how you moved through space. This will be used to code a satisfying TurtleStitch design.  Don’t be surprised to find that you are challenged to walk/run more, making TurtleStitch a part of a creative and healthy lifestyle.
+Aanmelden: 	nee
 
 Presenter:	Jacob Tekiela (<a href="https://turtlestitch.org/users/tekiela">tekiela</a>)
 Code:	t2b
@@ -97,10 +97,10 @@ Begintijd:	10:30
 Eindtijd:	11:30
 Ruimte:	Stemmingmakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	Shared pattern library
 Teaser-NL:	Shared Library brainstrorm 
 Omschrijving-NL:	A presentation of a work-in-progress library of patterns up for discussion 
+Aanmelden: 	nee
 
 Presenter:	Jadga Hügle (<a href="https://turtlestitch.org/users/jadga">jadga</a>)
 Code:	t2c
@@ -110,10 +110,10 @@ Begintijd:	10:30
 Eindtijd:	11:30
 Ruimte:	Stemmingmakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	10 things you might not have known about TurtleStitch
 Teaser-NL:	Learn a couple of tricks in the TurtleStitch IDE that you might not yet be aware of :)
 Omschrijving-NL:	Snap! has a lot of power user features that are also available in TurtleStitch. But as it is often with these features, they are not really discoverable if you don't already know that theyare there. In this talk, I want to share 10 tips in 10 minutes of things that you might not yet be aware of that help me program in TurtleStitch or write curriculum. Learn how to translate custom blocks or create your own block libraries to share with a class, create script and IDE pictures without backgrounds, create blocks with images in the block titles and many more helpful features.
+Aanmelden: 	nee
 
 Presenter:	Richard Millwood (<a href="https://turtlestitch.org/users/Richard">Richard</a>)
 Code:	t2d
@@ -123,12 +123,12 @@ Begintijd:	10:30
 Eindtijd:	11:30
 Ruimte:	Stemmingmakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	Small is beautiful - focussing on the stitch
 Teaser-NL:	TurtleStitch comes with some repeating styles for stitching - can we vary as we sew?
 Omschrijving-NL:	Great aesthetic value is gained by using a computer to generate interesting graphic forms using TurtleStitch, but usually stitches which are built in to TurtleStitch are used. This talk is to explain how we can use TurtleStitch to vary the stitches themselves, so that they may change their form according to an algorithm, random chance or some linear function of their position in a line of sewing. Such a focus on the micro level is certainly found in hand sewing and may prove a fertile area for artistic and mathematical exploration.
+Aanmelden: 	nee
 
-Name	Martine van 't Hul
+Name:	Martine van 't Hul
 Code:	t2e
 Weblink:	https://bibliotheekmb.op-shop.nl/20022/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -136,12 +136,12 @@ Begintijd:	10:30
 Eindtijd:	11:30
 Ruimte:	Stemmingmakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	From Sketch to Stitch: Your Own Badge
 Teaser-NL:	 Design your own badge shape, digitize it and embroider it with the machine.
 Omschrijving-NL:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches. During this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques. Afterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
+Aanmelden: 	nee
 
-Name	Ursula Wolz (<a href="https://turtlestitch.org/users/ursulawolz">ursulawolz</a>) (via Zoom)
+Name:	Ursula Wolz (<a href="https://turtlestitch.org/users/ursulawolz">ursulawolz</a>) (via Zoom)
 Code:	bof1
 Weblink:	none
 Dag:	Saturday
@@ -149,7 +149,6 @@ Begintijd:	12:00
 Eindtijd:	13:00
 Ruimte:	Futurelab
 ProgramType:	bof
-Aanmelden: 	nee
 Titel-NL:	Voorbij remixen
 Teaser-NL:	Voorbij het remixen, leerlingen voorbereiden op zwemmen in open water
 Omschrijving-NL:	Volgt
@@ -163,10 +162,10 @@ Begintijd:	12:00
 Eindtijd:	13:00
 Ruimte:	Kennismakerij
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	Turtle Stitch met onze slechtziende leerlingen
 Teaser-NL:	Laten zien wat er mogelijk is met onze slechtziende leerlingen en TurtleStitch
 Omschrijving-NL:	A talk about how we teach TurtleStitch with our visual impaired students (12-14 year) in 6 lessons. What are the challenges and what are the results. How can we implement math in the lessons? We will show the results, our material with braille. What will work for them and what will not work for them. My collegue Anniemiek van Leendert will also support me with her ideas. Her expertise is mathematics for braille students.  
+Aanmelden: 	nee
 
 Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
 Code:	t3b
@@ -176,10 +175,10 @@ Begintijd:	12:00
 Eindtijd:	13:00
 Ruimte:	Kennismakerij
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	Chicken & Chips
 Teaser-NL:	A hands-on sensemaking exercise to introduce ourselves to the role semi-conductors in electronic circuits
 Omschrijving-NL:	All computers depend on semi-conducting materials - this brief excercise might help us to understand and appreciate them.<br/>We will form a human circuit incorporating a small chirpy chicken toy called Pieu Pieu, who will act as both input (battery) and output (chirper) in our circuit.<br/>We will do a group investigation into conducting and non-conducting materials in simple circuits.<br/>We will introduce ourselves to semi-conducting materials using a diode which is central to all electronic circuits. We will learn a little about these materials - their source and sustainability.<br/>Each of us can then use these materials to make and take away a personalised LED 'Glowie'. 
+Aanmelden: 	nee
 
 Presenter:	Cynthia Solomon (<a href="https://turtlestitch.org/users/cynthiasolomon">cynthiasolomon</a>)
 Code:	w3
@@ -189,10 +188,10 @@ Begintijd:	12:00
 Eindtijd:	13:00
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via LocHal
 Titel-NL:	Starten met TurtleStitch
 Teaser-NL:	Cynthia and Beth zullen je laten starten
 Omschrijving-NL:	Hier leer je om met TurtleStitch aan de gang te gaan
+Aanmelden: 	via LocHal
 
 Presenter:	Bhavik Dodda (via Zoom) (<a href="https://turtlestitch.org/users/Bhavik_Dodda">Bhavik_Dodda</a>)
 Code:	t4a
@@ -202,10 +201,10 @@ Begintijd:	14:00
 Eindtijd:	15:00
 Ruimte:	Futurelab
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	Face Stitching
 Teaser-NL:	Stich your face with a single continuous line!
 Omschrijving-NL:	Given a picture of your face or any sketch, we can turn it into an embroidery/stitch using just a single continuous line! This project has been inspired by ""Mona Lisa TSP Challenge"" by the University of Waterloo. In the talk, I'm going to cover all the necessary domain knowledge required to theoretically compute it as well as walk you through the entire pipeline of the project to go from the input image to finally exporting the .dst file, which can be imported into your sewing machine to stitch your image.
+Aanmelden: 	nee
 
 Presenter:	Elaine Wolfe (via Zoom) (<a href="https://turtlestitch.org/users/Elaine">Elaine</a>)
 Code:	t4b
@@ -215,12 +214,12 @@ Begintijd:	14:00
 Eindtijd:	15:00
 Ruimte:	Futurelab
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	The Beauty of Coding:  Koch Snowflake
 Teaser-NL:	This TurtleStitch program is a recursive program
 Omschrijving-NL:	We will explore Koch Snowflakes in a way that everyone can embroider them
+Aanmelden: 	nee
 
-Name	Stephen Howell
+Name:	Stephen Howell
 Code:	w4
 Weblink:	https://bibliotheekmb.op-shop.nl/20040/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -228,10 +227,10 @@ Begintijd:	14:00
 Eindtijd:	15:30
 Ruimte:	Stemmingmakerij
 ProgramType:	extended
-Aanmelden: 	via LocHal
 Titel-NL:	Lichamen als data: van houdingdetectie tot gestikte patronen
 Teaser-NL:	Maak gestikte patronen met je lichaam als creatieve input. Je hebt geen toetsenbord of muis nodig!
 Omschrijving-NL:	Deelnemers onderzoeken hoe houdingdetectie met machine learning fysieke bewegingen kan omzetten in creatieve datastromen. Met behulp van bekende Scratch-blokken bouwen we projecten die lichaamshoudingen en gebaren vastleggen. Vervolgens onderzoeken we hoe deze data vertaald kan worden naar patronen en ontwerpen die je kunt borduren.
+Aanmelden: 	via LocHal
 
 Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
 Code:	w5
@@ -241,10 +240,10 @@ Begintijd:	14:00
 Eindtijd:	15:00
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via LocHal
 Titel-NL:	Open workshop
 Teaser-NL:	Als je liever doet dan praat, en liever maakt dan luistert …
 Omschrijving-NL:	De workshopruimte is voor iedereen toegankelijk. Er kan iemand zijn die iets wil demonstreren, maar iedereen kan komen om gewoon te leren en samen te maken.
+Aanmelden: 	via LocHal
 
 Presenter:	Susan Ettenheim (via Zoom) (<a href="https://turtlestitch.org/users/susanettenheim">susanettenheim</a>)
 Code:	w6
@@ -254,12 +253,12 @@ Begintijd:	15:00
 Eindtijd:	16:00
 Ruimte:	Futurelab
 ProgramType:	workshop
-Aanmelden: 	nee
 Titel-NL:	Instagrammable
 Teaser-NL:	How to Make Turtlestitch Projects Instagram Worthy! ... and what does that really mean?
 Omschrijving-NL:	We can teach computer science through the arts. We can make the abstract of coding and programming real and touchable with Turtlestitch. The bigger question that remains, is how do we fill that gap between the point of making a coded Turtlestitch project and the point when a student (or any human) is so excited that they want to Instagram it? And what does that even mean?<br/>When a project becomes personally expressive and satisfying, it is human nature to share it and isn’t that exactly what defines great learning? How do we articulate the pedagogy that creates these magic moments and why is TurtleStich a perfect companion for this mission?<br/>This workshop proposes some concrete steps and projects to use to inspire and bridge that gap.
+Aanmelden: 	nee
 
-Name	Martine van 't Hul
+Name:	Martine van 't Hul
 Code:	w7
 Weblink:	https://bibliotheekmb.op-shop.nl/20028/turtlestitch-10-een-weekend-vol-kunst-code/19-07-2025
 Dag:	Saturday
@@ -267,10 +266,10 @@ Begintijd:	15:00
 Eindtijd:	16:30
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via LocHal
-Titel-NL:	Van schets tot borduursel: je eigen badgeTeaser-NL:	 
-Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine.
+Titel-NL:	Van schets tot borduursel: je eigen badge
+Teaser-NL: Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine.
 Omschrijving-NL:	Ontwerp je eigen badgevorm, digitaliseer hem en borduur hem met de machine. Breng hem vervolgens tot leven met handborduursteken. Tijdens deze workshop leer je de basisprincipes van digitaliseren, machinaal borduren en handborduurtechnieken. Daarna ga je naar huis met je eigen handgemaakte badge – perfect om een kledingstuk te repareren of te versieren.
+Aanmelden: 	via LocHal
 
 Presenter:	Margaret Minsky (<a href="https://turtlestitch.org/users/margmarg">margmarg</a>)
 Code:	t5a
@@ -280,10 +279,10 @@ Begintijd:	15:30
 Eindtijd:	16:30
 Ruimte:	Kennismakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	Computer Embroidery Partners
 Teaser-NL:	Learning from Other ways to Design Machine Embroidery
 Omschrijving-NL:	A roundup of other experiments with other pipelines for machine embroidery. Let's learn together and discuss how these relate to TurtleStitch.
+Aanmelden: 	nee
 
 Presenter:	Maria Beatrice Rapaccini (<a href="https://turtlestitch.org/users/brapacc">brapacc</a>)
 Code:	t5b
@@ -293,10 +292,10 @@ Begintijd:	15:30
 Eindtijd:	16:30
 Ruimte:	Kennismakerij
 ProgramType:	short
-Aanmelden: 	nee
 Titel-NL:	Arachne and Téchne: the story of a turtle who wanted to become a spider
 Teaser-NL:	 From weaving a spider web to coding a TurtleStitch project
 Omschrijving-NL:	In this talk, we explore the story of human creativity, starting with the myth of Arachne. We look at how weaving tools have changed over time, from hand-weaving to the invention of the Jacquard loom. We’ll see how punched cards, used in the loom, helped to inspire the first ideas of modern computing. Even though weaving and programming seem very different, they share surprising connections. By mixing old and new technologies, we show how TurtleStitch Platform supports creative collaboration, using code as a new thread of expression.
+Aanmelden: 	nee
 
 Presenter:	Jadga Hügle (<a href="https://turtlestitch.org/users/jadga">jadga</a>)
 Code:	t5c
@@ -306,10 +305,10 @@ Begintijd:	15:30
 Eindtijd:	16:30
 Ruimte:	Kennismakerij
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	Finding Patterns in Your Environment
 Teaser-NL:	Geometry is everywhere around us - let's use it to create local, custom merchandise
 Omschrijving-NL:	For quite a while I've noticed that geometric patterns are all around us. And if you've seen them once, you can't unsee them. In this talk, I want to share a couple of ideas from different cities and cultural backgrounds on how to use these unique geometries for generative art in TurtleStitch. How to identify patterns, recode and remix them and make custom merchandise for your city, region, school,...
+Aanmelden: 	nee
 
 Presenter:	Jacob Tekiela (<a href="https://turtlestitch.org/users/tekiela">tekiela</a>)
 Code:	t5d
@@ -319,10 +318,10 @@ Begintijd:	15:30
 Eindtijd:	16:30
 Ruimte:	Kennismakerij
 ProgramType:	medium
-Aanmelden: 	nee
 Titel-NL:	Expermental mixed-media Practice
 Teaser-NL:	Showcasing experimental embrodery works by Danish artist Jacob Tekiela
 Omschrijving-NL:	I will showcase some experimental  mixed-media  embroidery projects, using laserengraving, cyanotype, stencils and varied materials …  using nature motifs as inspiration 
+Aanmelden: 	nee
 
 Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
 Code:	tm
@@ -332,10 +331,10 @@ Begintijd:	18:00
 Eindtijd:	19:30
 Ruimte:	Hostel Roots Bar (Stationstraat 41)
 ProgramType:	workshop
-Aanmelden: 	nee
 Titel-NL:	TeachMeet
 Teaser-NL:	Sharing random short stories in a social setting
 Omschrijving-NL:	The TeachMeet is an Open Space at which all are welcome. Attendees are invited to put their name down to share a short presentation (between 2 and 7 minutes approx.) in a relaxed atmosphere. There is no strict agenda. The order will be randomly chosen on the night. It is a social occasion, at which we can learn from each other as well as relax together. Timekeeping will be strict but fun! 
+Aanmelden: 	nee
 
 Presenter:	Richard Millwood (<a href="https://turtlestitch.org/users/Richard">Richard</a>)
 Code:	w8
@@ -345,10 +344,10 @@ Begintijd:	12:00
 Eindtijd:	12:30
 Ruimte:	Stemmingmakerij
 ProgramType:	workshop
-Aanmelden: 	nee
 Titel-NL:	How do we say our code out loud?
 Teaser-NL:	Jigsaw programming is very visual but this doesn't help us to say it out loud - how should we?
 Omschrijving-NL:	It is a known problem that people are diverse in the way they read out loud a computer program, and that this may indicate a problem regarding their understanding of the program. This workshop will demonstrate an early prototype of a Snap! microworld with limited commands and using turtle graphics to help the development of a 'speaking' literacy with regard to Snap! programs. Participants who enjoy designing or are interested in pedagogy for early programmers will practically take the prototype further in small groups or as individuals to explore the ideas and improve the practice.
+Aanmelden: 	nee
 
 Presenter:	Mags Amond (<a href="https://turtlestitch.org/users/magsamond">magsamond</a>)
 Code:	t6a
@@ -358,10 +357,10 @@ Begintijd:	12:30
 Eindtijd:	13:30
 Ruimte:	Futurelab
 ProgramType:	long
-Aanmelden: 	nee
 Titel-NL:	Blockly Games - learn to think like a turtle
 Teaser-NL:	Navigate the maze, make movies with maths, make music and more
 Omschrijving-NL:	In this self-paced workshop, we will work with a partner through the Blockly levels …<ol><br/><li>navigate the maze with Google MapMan, solve level 10 and claim a prize!</li><br/><li>use conditionals in control-flow to fly the Bird past the snakes back to her next</li><br/><li>use loops and nested loops to take the Turtle on a trip</li><br/><li>use maths equations to make a mini animated Movie</li><br/><li>use functions to compose music for your own mini-orchestra</li><br/><li>switch between block based and text-based commands in the battle Pond</li><br/></ol>Neil Frazer's Blockly Games are designed as an introduction, a precursor to text-based programming. There are built-in exit strategies in the design - text on blocks is in lower case, java script displayed after each block based success, the final game is built within a text editor.  Contextually aware popups appear and disappear to help with flow.
+Aanmelden: 	nee
 
 Name:	Rehana Al-Soltane (<a href="https://turtlestitch.org/users/rehanafied">rehanafied</a>)
 Code:	t6b
@@ -376,7 +375,7 @@ Teaser-NL:	Hoe ik vakoverstijgend informatica onderwijs met borduren en de melkw
 Omschrijving-NL:	Dankzij TurtleStitch kan ik mijn brede belangstelling gebruiken om informatica te geven met machineborduren op Khan Lab School in Californië. Het combineren van natuur, de sterren en informatica geeft mijn leerlingen nieuwe manieren te programmeren, terwijl tegelijkertijd de vingers jeuken om het resultaat daadwerkelijk te maken.
 Aanmelden:	nee
 
-Name	Stephen Howell
+Name:	Stephen Howell
 Code:	t7
 Weblink:	https://bibliotheekmb.op-shop.nl/20030/turtlestitch-10-een-weekend-vol-kunst-code/20-07-2025
 Dag:	Sunday
@@ -384,10 +383,10 @@ Begintijd:	12:30
 Eindtijd:	13:30
 Ruimte:	Kennismakerij
 ProgramType:	long
-Aanmelden: 	nee
 Titel-NL:	Beyond the Mouse & Keyboard: The Joy of Body-Responsive Coding
 Teaser-NL:	From clicks to kicks: how embodied interaction transforms the joy of learning to code
 Omschrijving-NL:	What shifts when students can control their Scratch projects by jumping, dancing, or striking poses instead of clicking keys or moving the mouse? This talk examines how ML-powered body tracking as input creates new forms of engagement and joy in programming education, making code feel alive and responsive to our full physical presence.
+Aanmelden: 	nee
 
 Presenter:	CoderDojo Tilburg (<a href="https://turtlestitch.org/users/PeterMathijssen">PeterMathijssen</a>)
 Code:	c2
@@ -397,10 +396,10 @@ Begintijd:	12:30
 Eindtijd:	14:30
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via Coderdojo
 Titel-NL:	CoderDojo
 Teaser-NL:	CoderDojo sessie for  CoderDojo kinderen
 Omschrijving-NL:	CoderDojo Tilburg, deze keer met Turtlestitch
+Aanmelden: 	via Coderdojo
 
 Presenter:	Simon Mong (<a href="https://turtlestitch.org/users/SimonMong">SimonMong</a>)
 Code:	w9
@@ -410,10 +409,10 @@ Begintijd:	13:30
 Eindtijd:	14:30
 Ruimte:	Futurelab
 ProgramType:	workshop
-Aanmelden: 	nee
 Titel-NL:	TurtleStitch: Where Code Beats Pen!
 Teaser-NL:	Unleash your creativity without limits—TurtleStitch turns code into embroidery art faster than a pen!
 Omschrijving-NL:	To celebrate TurtleStitch’s 10th anniversary, this workshop introduces a major upgrade to two block libraries, enhancing both creative freedom and precision in machine embroidery. The new features include: (1) Natural Curve Drawing, enabling mouse-followed sketching that converts freehand gestures into smooth stitch-ready paths; (2) Smart Area Filling, allowing parametric control over angle, density, and custom stitch patterns; and (3) Custom Stitch & Fill Methods, supporting user-defined stitch styles (e.g., square, diamond) for reuse.<br/>Participants will engage in a hands-on demo project, designing an embroidery pattern as intuitively as drawing on paper using keyboard and mouse input. By the end, attendees will master the new blocks for organic design and structured filling, create a personalized embroidery file for physical stitching, and gain inspiration for merging analog artistry with digital precision.<br/>This workshop is ideal for coders, artists, and educators seeking to explore expressive and repeatable textile art. Join us in celebrating a decade of TurtleStitch by pushing its creative boundaries together.
+Aanmelden: 	nee
 
 Presenter:	Beth Lloyd (<a href="https://turtlestitch.org/users/lloydcrew">lloydcrew</a>)
 Code:	w10
@@ -423,10 +422,10 @@ Begintijd:	15:00
 Eindtijd:	16:00
 Ruimte:	Futurelab
 ProgramType:	workshop
-Aanmelden: 	via LocHal
 Titel-NL:	Aan de slag met TurtleStitch
 Teaser-NL:	Hoe goed kun jij programmeren met je voeten?
 Omschrijving-NL:	We gaan in deze sessie je wandelingen die je met een app als Strava hebt vastgelegd borduren. Neem de output van je tracking app mee en ook een laptop en een shirt en dan borduur je je route daarop.<br/>Dus: leg je computer weg, trek je schoenen aan en maak van de wereld jouw TurtleStitch-podium. Je hebt alleen een gratis hardloopapp nodig om te beginnen met programmeren met je voeten. Je kunt je route uitstippelen of gewoon zien waar je voeten je brengen. Als je klaar bent, heb je een afbeelding van hoe je door de ruimte bent gegaan. Dit wordt gebruikt om een bevredigend TurtleStitch-ontwerp te programmeren. Wees niet verbaasd als je merkt dat je meer moet lopen/rennen, waardoor TurtleStitch onderdeel wordt van een creatieve en gezonde levensstijl.
+Aanmelden: 	via LocHal
 
 Presenter:	Joek van Montfort (<a href="https://turtlestitch.org/users/xota">xota</a>)
 Code:	b1
@@ -436,10 +435,10 @@ Begintijd:	15:00
 Eindtijd:	16:00
 Ruimte:	Stemmingmakerij
 ProgramType:	bof
-Aanmelden: 	nee
 Titel-NL:	Self organised support by TurtleStitch community
 Teaser-NL:	Setting up support is work. Inspired by efforts of our family (Scratch, Snap!, Microblocks) this workshop will build a similar system for the TurtleStitch community.
 Omschrijving-NL:	We want to group the questions and ideas of the community in a organised,  open and inviting place. Too much solutions live in inboxes a small group of people. Where they are forgotten, never updated. We realise this is the start of continuous work, so extra attention should be paid on how to manage this over months and years.
+Aanmelden: 	nee
 
 Presenter:	Margaret Low (<a href="https://turtlestitch.org/users/megjlow">megjlow</a>)
 Code:	w11
@@ -449,7 +448,7 @@ Begintijd:	15:00
 Eindtijd:	16:30
 Ruimte:	Workshopruimtes
 ProgramType:	workshop
-Aanmelden: 	via LocHal
 Titel-NL:	Lussen, kronkels en wervelingen
 Teaser-NL:	Creatieve en speelse patronen die de ingebouwde borduuropdrachten verkennen.
 Omschrijving-NL:	Deze praktische workshop verkent het creatieve potentieel van de ingebouwde borduurcommando's van TurtleStitch (het donkergroene gedeelte). Of je nu nieuw bent met TurtleStitch of je kennis ervan wilt uitbreiden, deze sessie leidt je door diverse technieken om verbluffende geometrische patronen te creëren met behulp van een reeks ingebouwde borduurcommando's. Van precieze lijnen en gestructureerde vierkanten tot de elegantie van strikken en ingewikkelde rechthoeken, we laten zien hoe eenvoudige commando's complexe en visueel opvallende ontwerpen kunnen opleveren. Door middel van interactieve activiteiten experimenteer je met belangrijke borduurfuncties en leer je hoe aanpassingen in plaatsing, herhaling en oriëntatie basisvormen kunnen transformeren tot dynamische composities. Aan het einde van de sessie heb je vertrouwen gekregen in het gebruik van alle borduurcommando's, waardoor je de vaardigheden hebt om je eigen unieke creaties te ontwerpen.
+Aanmelden: 	via LocHal
