@@ -141,7 +141,7 @@ Teaser-EN:	 Design your own badge shape, digitize it and embroider it with the m
 Omschrijving-EN:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches.<br/>During this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques.<br/>Afterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
 Aanmelden:	nee
 
-Name	Ursula Wolz (via Zoom)
+Name:	Ursula Wolz (via Zoom)
 Code:	bof1
 Weblink:	none
 Dag:	Saturday
@@ -149,9 +149,8 @@ Begintijd:	12:00
 Eindtijd:	13:00
 Ruimte:	Futurelab
 ProgramType:	bof
-Aanmelden: 	nee
 Titel-EN:	Beyond remixing
-Teaser-EN:	Beyond remixing, preparing students to swim in open water
+Teaser-EN:	Beyond remixing, preparing students to swim in open water.
 Omschrijving-EN:	tba
 Aanmelden:	nee
 
