@@ -141,7 +141,7 @@ Titel-NL:	From Sketch to Stitch: Your Own Badge
 Teaser-NL:	 Design your own badge shape, digitize it and embroider it with the machine.
 Omschrijving-NL:	Design your own badge shape, digitize it and embroider it with the machine. Then bring it to life with hand embroidery stitches. During this workshop you will learn the basics of digitizing, machine embroidery and hand embroidery techniques. Afterwards you will go home with your own handmade badge – perfect for repairing or decorating a garment.
 
-Name	Ursula Wolz (via Zoom)
+Name	Ursula Wolz (<a href="https://turtlestitch.org/users/ursulawolz">ursulawolz</a>) (via Zoom)
 Code:	bof1
 Weblink:	none
 Dag:	Saturday
@@ -363,7 +363,7 @@ Titel-NL:	Blockly Games - learn to think like a turtle
 Teaser-NL:	Navigate the maze, make movies with maths, make music and more
 Omschrijving-NL:	In this self-paced workshop, we will work with a partner through the Blockly levels …<ol><br/><li>navigate the maze with Google MapMan, solve level 10 and claim a prize!</li><br/><li>use conditionals in control-flow to fly the Bird past the snakes back to her next</li><br/><li>use loops and nested loops to take the Turtle on a trip</li><br/><li>use maths equations to make a mini animated Movie</li><br/><li>use functions to compose music for your own mini-orchestra</li><br/><li>switch between block based and text-based commands in the battle Pond</li><br/></ol>Neil Frazer's Blockly Games are designed as an introduction, a precursor to text-based programming. There are built-in exit strategies in the design - text on blocks is in lower case, java script displayed after each block based success, the final game is built within a text editor.  Contextually aware popups appear and disappear to help with flow.
 
-Name:	Rehana Al-Soltane
+Name:	Rehana Al-Soltane (<a href="https://turtlestitch.org/users/rehanafied">rehanafied</a>)
 Code:	t6b
 Weblink:	none
 Dag:	Sunday
